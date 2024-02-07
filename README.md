@@ -1,0 +1,2 @@
+# typescript-survival
+typescriptの練習問題を解くためのリポジトリ
